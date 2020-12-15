@@ -51,10 +51,10 @@
 
 # Em R, os gráficos de rede podem ser visualizados bem por meio do pacote visNetwork. 
 
-# Vamos começar?
+
 
 # Não use diretórios com espaço no nome
-setwd("C:/FCD/BigDataRAzure/Cap05")
+setwd()
 getwd()
 
 # Pacotes
