@@ -1,6 +1,5 @@
 # Big Data na Prática 3 - Mineração de Regra de Associação 
 
-# Esse é um material de bônus. 
 # Conteúdo sobre ese tema pode ser encontrado nos cursos: 
 
 # Business Analytics 
