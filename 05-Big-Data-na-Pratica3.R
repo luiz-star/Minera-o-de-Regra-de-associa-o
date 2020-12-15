@@ -1,6 +1,5 @@
 # Big Data na Prática 3 - Mineração de Regra de Associação 
 
-# Conteúdo sobre ese tema pode ser encontrado nos cursos: 
 
 # Business Analytics 
 # Análise em Grafos Para Big Data
